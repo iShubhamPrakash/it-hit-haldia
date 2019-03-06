@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
 import {Route} from 'react-router-dom';
 import './App.css';
+
+import Nav from './components/Nav';
+import Home from "./components/Home"
 import AboutCollege from "./components/AboutCollege"
 import AboutDepartment from "./components/AboutDepartment"
-import Nav from './components/Nav';
+import Contact from "./components/Contact"
 import Footer from './components/Footer';
 
 class App extends Component {
@@ -11,9 +14,13 @@ class App extends Component {
     return (
       <div className="App">
         <Nav/>
-          <Route path="/AboutCollege" component={AboutCollege}/>
-          <Route path="/AboutDepartment" component={AboutDepartment}/>
-          <Footer/>
+        <div style={{paddingTop:"60px"}}>
+          <Route exact path="/" component={Home}/>
+          <Route exact path="/about-college" component={AboutCollege}/>
+          <Route exact path="/about-department" component={AboutDepartment}/>
+          <Route exact path="/contact" component={Contact}/>
+        </div>
+        <Footer/>
       </div>  
     );
   }

@@ -1,0 +1,27 @@
+.social-link-container{
+    text-align: center;
+}
+.social-link-container ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.social-link-container ul li{
+    font-size: 20px;
+    padding: 0.1em 0.5em;
+    width: 35px;
+    height: 35px;
+    background-color: #30343d;
+    border-radius: 100%;
+    margin: 0;
+    position: relative;
+    right: 20px;
+}
+
+.social-link-container ul li a{
+    color: #fff;
+}
+.social-link-container ul li a:hover{
+    color: skyblue;
+}

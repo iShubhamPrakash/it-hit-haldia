@@ -1,0 +1,31 @@
+.home-top-img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-top-img img{
+    /* max-width: 100%; */
+    display: block;
+    width: 700px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.notice-container{
+    background: #fff;
+    height: 500px;
+    overflow-x:hidden;
+    overflow-y: auto;
+    margin:10px; 
+}
+.info-container{
+    background: #fff;
+    height: 500px;
+    overflow-x:hidden;
+    overflow-y: auto; 
+    margin:10px; 
+
+}
