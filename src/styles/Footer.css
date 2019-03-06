@@ -6,7 +6,8 @@
 }
 
 .footer-top{
-    padding: 8px;
+    font-size: 0.8em;
+    padding-top: 15px;
     text-align: center;
 }
 
@@ -17,4 +18,10 @@
     padding: 5px 0;
     font-size: 0.8em;
     text-align: center;
+}
+
+@media only screen and (min-width: 990px){
+    .footer-container .social-link-container ul li{
+        top: 15px;
+    }
 }
