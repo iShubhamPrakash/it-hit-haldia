@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/information.technology.HIT.haldia/static/media/it_logo.28191f7b.png"
   },
   {
-    "revision": "e757de5adba2934835e0",
-    "url": "/information.technology.HIT.haldia/static/css/main.5e72a6fb.chunk.css"
+    "revision": "c875dc9a7b473846cebd",
+    "url": "/information.technology.HIT.haldia/static/css/main.b93e7998.chunk.css"
   },
   {
     "revision": "e5963c019b9425e3adc9",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/information.technology.HIT.haldia/static/media/hit_logo.3d29e454.png"
   },
   {
-    "revision": "e757de5adba2934835e0",
-    "url": "/information.technology.HIT.haldia/static/js/main.e757de5a.chunk.js"
+    "revision": "c875dc9a7b473846cebd",
+    "url": "/information.technology.HIT.haldia/static/js/main.c875dc9a.chunk.js"
   },
   {
     "revision": "e1ea5866e207086864f6e0dbed9139fb",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/information.technology.HIT.haldia/static/css/2.ccc9914d.chunk.css"
   },
   {
-    "revision": "299a2bad8d9e3762fdbe6684022ced9a",
+    "revision": "96149a3ab6df9efe7416d63e0ba7b103",
     "url": "/information.technology.HIT.haldia/index.html"
   }
 ];
