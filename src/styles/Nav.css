@@ -46,8 +46,53 @@ left: 10px;
 flex-grow: 5;
 }
 
-.sign-in-btn{
+.sign-in-btn,
+.nav-toggle-btn {
     border: none;
     background: transparent;
     color: #fff;
+}
+
+.nav-toggle-btn{
+    position: absolute;
+    font-size: 26px;
+    right: 10px;
+    top: 5px;
+    display: none;
+}
+
+.hidden-nav{
+    background-color: #30333a;
+    color: white;
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    text-align: center;
+    padding: 10px;
+    margin-top: -20px;
+}
+
+.hidden-nav a {
+    display: block;
+    padding: 10px;
+    border-bottom: 1px solid rgba(114, 113, 113, 0.164);
+}
+
+.hidden-nav a:active{
+    color: rgb(243, 179, 105);
+}
+
+.hide{
+    display: none;
+}
+
+@media only screen and (max-width: 950px){
+    .nav-container ul li:not(.brand){
+        display: none;
+    }
+
+    .nav-toggle-btn{
+        display: block;
+    }
 }

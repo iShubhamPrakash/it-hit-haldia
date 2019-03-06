@@ -27,3 +27,7 @@ code {
  border-top: 3px solid #1F8FDE;
  border-bottom: 3px solid#DE2B1F;
 }
+
+.active {
+  color: rgb(248, 183, 78);
+}
