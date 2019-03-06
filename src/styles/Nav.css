@@ -5,6 +5,8 @@
     position: fixed;
     width: 100%;
     z-index: 100;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    
 }
 
 .nav-container ul{
@@ -16,13 +18,10 @@
 .nav-container ul li{
     padding: 12px 1rem;
     font-size: 1.1em;
+}
 
-    /* display: inline;
-    justify-content: space-evenly */
-    
-    /* flex-direction: row; */
-    /* align-items: center;
-    justify-content: center; */
+.nav-container ul li a:hover{
+    border-bottom: 2px solid rgb(209, 36, 79);;
 }
 
 .nav-container a{
@@ -30,8 +29,8 @@
     text-decoration: none;
 }
 
-.nav-container a .active{
-    color: rgb(85, 156, 223);
+.nav-container a:active{
+    color: rgb(209, 36, 79);
     text-decoration: none;
 }
 
