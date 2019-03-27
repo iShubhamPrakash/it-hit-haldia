@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/information.technology.HIT.haldia/precache-manifest.c2902c946de153afbb5a34c44feb2196.js"
+  "/it-hit-haldia/precache-manifest.f5cedad6aee45db06f7cd249618ae107.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/information.technology.HIT.haldia/index.html", {
+workbox.routing.registerNavigationRoute("/it-hit-haldia/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
