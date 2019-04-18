@@ -1,8 +1,8 @@
 # Teachers
  
- ###Dr.Soumen Paul
+ ### Dr.Soumen Paul
  
- ![alt text](s)
+ ![alt text](/D)
  
  M.Stat, M.Tech and Ph.D(Engg.)
  Professor and HOD
