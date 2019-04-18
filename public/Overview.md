@@ -1,0 +1,1 @@
+,sanket,hp,18.04.2019 23:52,file:///home/sanket/.config/libreoffice/4;
