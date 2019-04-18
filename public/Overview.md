@@ -13,4 +13,4 @@ Since inception, Haldia Institute of Technology is dedicated to the objectives o
 - To impart quality and value based education to raise satisfaction level of all stake-holders.
 - To create competent,creative professionals, and great entrepreneurs who can work as individual or in group in multi-cultural global environments.
 - To prepare citizens who would grow to be competent enough to contribute significantly with personal integrity and civic responsibility for the betterment of mankind throughout their careers and profession.
-[To know more visit official website] (https://hithaldia.in/)
+
