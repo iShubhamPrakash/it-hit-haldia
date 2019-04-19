@@ -6,8 +6,11 @@
  Algorithm, Soft Computing
 
  ### Mr.Susmit Maity
+ 
  M.Tech
+ 
  Associate Professor
+ 
  Cellular Automata
  
  ### Mrs. Moumita Mantri
