@@ -1,8 +1,8 @@
 # Teachers
  
  ### Dr.Soumen Paul
- M.Stat, M.Tech and Ph.D(Engg.)
- Professor and HOD
+ M.Stat, M.Tech and Ph.D(Engg.)\
+ Professor and HOD\
  Algorithm, Soft Computing
 
  ### Mr.Susmit Maity
