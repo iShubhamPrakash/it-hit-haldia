@@ -13,7 +13,7 @@ export default class TechnicalStaff extends Component {
           qualification="Diploma in CSE, BCA"
           desig="Sr.Instructor"
           sub=""
-          link=""
+          link="https://hithaldia.in/main/it-technical-staff/"
           img=""
         />
         <TeacherBox
@@ -21,7 +21,7 @@ export default class TechnicalStaff extends Component {
           qualification="BCA"
           desig="Instructor"
           sub=""
-          link=""
+          link="https://hithaldia.in/main/it-technical-staff/"
           img=""
         />
         <TeacherBox
@@ -29,7 +29,7 @@ export default class TechnicalStaff extends Component {
           qualification="Dip. in CST, B.Tech. [CSE]"
           desig="Demonstrator"
           sub=""
-          link=""
+          link="https://hithaldia.in/main/it-technical-staff/"
           img=""
         />
       </div>

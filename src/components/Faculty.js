@@ -13,7 +13,7 @@ export default class Faculty extends Component {
             qualification="M.Stat, M.Tech and Ph.D(Engg.)"
             desig="Professor and HOD"
             sub="Algorithm, Soft Computing"
-            link=""
+            link="http://hithaldia.in/hit_resource/one_page/it/Soumen%20Paul.docx"
             img=""
           />
           <TeacherBox
@@ -21,7 +21,7 @@ export default class Faculty extends Component {
             qualification="M.Tech"
             desig="Associate Professor"
             sub="Cellular Automata"
-            link=""
+            link="http://hithaldia.in/hit_resource/one_page/it/Susmit_Maity.doc"
             img=""
           />
           <TeacherBox
@@ -29,7 +29,7 @@ export default class Faculty extends Component {
             qualification="B.Tech, M.Tech"
             desig="Assistant Professor"
             sub="Cryptography"
-            link=""
+            link="http://hithaldia.in/hit_resource/one_page/it/One%20Page%20Biodata_M.Mantri.docx"
             img=""
           />
           <TeacherBox
@@ -45,7 +45,7 @@ export default class Faculty extends Component {
             qualification="M.Tech"
             desig="Assistant Professor"
             sub="Natural Language Processing, Machine Learning"
-            link=""
+            link="http://hithaldia.in/hit_resource/one_page/it/One%20Page%20Biodata_Sabyasachi.doc"
             img=""
           />
           <TeacherBox
@@ -53,7 +53,7 @@ export default class Faculty extends Component {
             qualification="B.E, M.tech"
             desig="Assistant Professor"
             sub="Imge Processing,Video Analysis"
-            link=""
+            link="http://hithaldia.in/hit_resource/one_page/it/One%20Page%20Biodata_Mandatory%20Disclosure_AICTE(Pranab).doc"
             img=""
           />
           <TeacherBox
@@ -61,7 +61,7 @@ export default class Faculty extends Component {
             qualification="B.E, M.Tech"
             desig="Assistant Professor"
             sub="IOT,Networking"
-            link=""
+            link="http://hithaldia.in/hit_resource/one_page/it/One%20Page%20Biodata_Manasija%20Bhattacharya.docx"
             img=""
           />
           <TeacherBox
@@ -69,7 +69,7 @@ export default class Faculty extends Component {
             qualification="B.Tech, M.Tech"
             desig="Assistant Professor"
             sub="Wireless Sensor Network"
-            link=""
+            link="http://hithaldia.in/hit_resource/one_page/it/ramkisne.docx"
             img=""
           />
           <TeacherBox
@@ -77,7 +77,7 @@ export default class Faculty extends Component {
             qualification="B.Tech, M.Tech"
             desig="Assistant Professor"
             sub="Information Security"
-            link=""
+            link="https://hithaldia.in/main/it-faculty-details/"
             img=""
           />
           <TeacherBox
@@ -85,7 +85,7 @@ export default class Faculty extends Component {
             qualification="B.Tech, M.Tech"
             desig="Assistant Professor"
             sub="Cyber Physical Design"
-            link=""
+            link="https://hithaldia.in/main/it-faculty-details/"
             img=""
           />
           <TeacherBox
@@ -93,10 +93,9 @@ export default class Faculty extends Component {
             qualification="M.Tech"
             desig="Assistant Professor"
             sub="Wireless Sensor Network, Context Aware Computing"
-            link=""
+            link="http://hithaldia.in/hit_resource/one_page/mca/bg.docx"
             img=""
           />
-  
         </div>
       </div>
     )
@@ -115,7 +114,7 @@ export const TeacherBox =(props)=>(
       </div>
       <hr/>
       <div className="teacher-box-footer">
-        <a href={props.link}>Know more...</a>
+        <a href={props.link}>More details</a>
       </div>
     </div>
   </div>
