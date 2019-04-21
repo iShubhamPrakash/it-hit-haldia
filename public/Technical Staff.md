@@ -1,6 +1,6 @@
 # Technical Staff
 
-## Ms.Anusree Pramanik 
+* Ms.Anusree Pramanik 
 Sr.Instructor\
 Diploma in CSE, BCA
 
