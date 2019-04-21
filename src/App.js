@@ -1,3 +1,10 @@
+/* 
+Developer contact
+Shubham Prakash
+(http://shubhamprakash.me)
+shubham.prakash2308@gmail.com 
+LinkedIn: https://www.linkedin.com/in/ishubhamprakash/
+*/
 import React, { Component } from 'react';
 import {Route} from 'react-router-dom';
 import './App.css';
@@ -23,10 +30,6 @@ import Sports from "./components/Sports"
 import QuestionPaper from "./components/QuestionPaper"
 import ImportantLinks from "./components/ImportantLinks"
 import Projects from "./components/Projects"
-
-
-
-
 
 import Footer from './components/Footer';
 

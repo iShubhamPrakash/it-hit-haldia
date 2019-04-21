@@ -1,39 +1,3 @@
-// import React from 'react'
-// import {NavLink} from "react-router-dom"
-// import logo from '../assets/hit_logo.png'
-// import '../styles/Nav.css'
-
-// const Nav= (props)=>{
-
-//     return(
-//         <div className="nav-container">
-//             <ul>
-//                 <li className="brand"><img src={logo} alt="" className="nav_logo"/> Information Technology</li>
-//                 <li><NavLink exact to="/">Home</NavLink></li>
-//                 <li><NavLink exact to="/about-department">About Department</NavLink></li>
-//                 <li><NavLink exact to="/about-college">About College</NavLink></li>
-//                 <li><NavLink exact to="/gallery">Gallery</NavLink></li>
-//                 <li><NavLink exact to="/contact">Contact us</NavLink></li>
-//                 <li className="nav-spacer"></li>
-//                 <li className="sign-in-btn"><button className="sign-in-btn"><i className="fa fa-sign-in-alt"/> Sign In</button></li>
-//                 <button className="nav-toggle-btn" onClick={navClick}><i className="fas fa-bars"></i></button>
-//             </ul>
-
-//             <div class="hidden-nav hide">
-//                 <NavLink exact to="/">Home</NavLink>
-//                 <NavLink exact to="/about-department">About Department</NavLink>
-//                 <NavLink exact to="/about-college">About College</NavLink>
-//                 <NavLink exact to="/gallery">Gallery</NavLink>
-//                 <NavLink exact to="/contact">Contact us</NavLink>
-//                 <button className="sign-in-btn"><i className="fa fa-sign-in-alt"/> Sign In</button>
-//             </div>
-
-//         </div>
-//     );
-// }
-
-// export default Nav;
-
 import React from "react";
 import { NavLink } from "react-router-dom";
 import "../styles/Nav.css";
@@ -72,13 +36,13 @@ class NavBar extends React.Component {
         <Navbar color="dark" dark expand="md">
           <NavbarBrand href="/">
             <img src={logo} alt="" className="nav-logo" />
-            <p className="brand-name">Information Technology</p>
+            <p className="brand-name"><NavLink exact to="/">Information Technology</NavLink></p>
           </NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               {/* <NavItem>
-                <NavLink to="/components/">Components</NavLink>
+                <NavLink exact to="/">Home</NavLink>
               </NavItem> */}
               <UncontrolledDropdown nav inNavbar>
                 <DropdownToggle nav caret>

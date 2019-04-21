@@ -5,8 +5,8 @@ export default class Arc extends Component {
     return (
       <div className="box-container">
         <div className="box">
-          <h1 className="text-center">Anti Ragging Cell</h1>
-          <hr />
+          <h1 className="text-center" style={{textAlign:"center"}}>Anti Ragging Cell</h1>
+          <hr/>
           <div className="container">
             <div className="row">
               <div className="col-12" />
@@ -14,10 +14,10 @@ export default class Arc extends Component {
             <div className="row">
               <div className="col-12">
                 <div className="boxyfy">
-                  <h2 className="sub-heading">
+                  <h3 className="sub-heading">
                     Ragging constitutes one or more of any of the following
                     acts:
-                  </h2>
+                  </h3>
                   <ul>
                     <li>
                       <p>
@@ -97,7 +97,7 @@ export default class Arc extends Component {
             </div>
             <div className="row">
               <div className="col-12">
-                <div className="boxyfy">
+                <div className="s-card">
                   <h2 className="sub-heading">Punishment for ragging:</h2>
                   <p className="h4">
                     Actions to be taken against students for indulging and
@@ -184,6 +184,7 @@ export default class Arc extends Component {
                     </li>
                   </ul>
                 </div>
+              <br/><br/>
               </div>
             </div>
             <div className="row">
@@ -278,8 +279,8 @@ export default class Arc extends Component {
               </div>
             </div>
           </div>
-          <div id="arc_table" className="boxyfy">
-            <h2 className="heading">Anti-Ragging Helpline</h2>
+          <div id="arc_table" className="s-card">
+            <h2 className="text-center">Anti-Ragging Helpline</h2>
             <table style={{width:"100%"}}>
               <tbody>
                 <tr>
@@ -324,7 +325,8 @@ export default class Arc extends Component {
                 </tr>
               </tbody>
             </table>
-            <h2 className="heading">IT Dept - Anti Ragging Cell</h2>
+            <br/><br/>
+            <h2 className="text-center">IT Dept - Anti Ragging Cell</h2>
             <table>
               <tbody>
                 <tr>

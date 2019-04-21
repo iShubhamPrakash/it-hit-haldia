@@ -1,3 +1,11 @@
+/* 
+Developer contact
+Shubham Prakash
+(http://shubhamprakash.me)
+shubham.prakash2308@gmail.com 
+LinkedIn: https://www.linkedin.com/in/ishubhamprakash/
+*/
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
