@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "28191f7bfc1fa75629f96005e930bf5f",
-    "url": "/it-hit-haldia/static/media/it_logo.28191f7b.png"
+    "revision": "3d29e454606a13b51e752936b4aa4821",
+    "url": "/it-hit-haldia/static/media/hit_logo.3d29e454.png"
   },
   {
-    "revision": "960ceb7a3ba4d9774327",
-    "url": "/it-hit-haldia/static/css/main.b93e7998.chunk.css"
+    "revision": "1b6cf0aabc3b69f20ac3",
+    "url": "/it-hit-haldia/static/css/main.312b20a8.chunk.css"
   },
   {
     "revision": "b59f3c6557c48a85870f",
@@ -16,24 +16,24 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/media/hit5.739792cb.jpg"
   },
   {
-    "revision": "be48d9c46f4800b3cd8b",
-    "url": "/it-hit-haldia/static/js/2.be48d9c4.chunk.js"
+    "revision": "889af2a14c9a10669d9a",
+    "url": "/it-hit-haldia/static/js/2.889af2a1.chunk.js"
   },
   {
     "revision": "ed4218e87c1ac08ceda9ad85ba448a05",
     "url": "/it-hit-haldia/static/media/hit-home-l.ed4218e8.jpg"
   },
   {
-    "revision": "3d29e454606a13b51e752936b4aa4821",
-    "url": "/it-hit-haldia/static/media/hit_logo.3d29e454.png"
-  },
-  {
-    "revision": "960ceb7a3ba4d9774327",
-    "url": "/it-hit-haldia/static/js/main.960ceb7a.chunk.js"
-  },
-  {
     "revision": "e1ea5866e207086864f6e0dbed9139fb",
     "url": "/it-hit-haldia/static/media/hit1.e1ea5866.jpg"
+  },
+  {
+    "revision": "1b6cf0aabc3b69f20ac3",
+    "url": "/it-hit-haldia/static/js/main.1b6cf0aa.chunk.js"
+  },
+  {
+    "revision": "28191f7bfc1fa75629f96005e930bf5f",
+    "url": "/it-hit-haldia/static/media/it_logo.28191f7b.png"
   },
   {
     "revision": "634ea1f5879652e52e8b7a3184c87b12",
@@ -48,11 +48,11 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/media/hit4.cce5b738.jpg"
   },
   {
-    "revision": "be48d9c46f4800b3cd8b",
-    "url": "/it-hit-haldia/static/css/2.ccc9914d.chunk.css"
+    "revision": "889af2a14c9a10669d9a",
+    "url": "/it-hit-haldia/static/css/2.181927df.chunk.css"
   },
   {
-    "revision": "b1b5e0640b4ee9ba7a0ed0c462629347",
+    "revision": "2291bd26adf51229ec8e9d15a239779c",
     "url": "/it-hit-haldia/index.html"
   }
 ];
