@@ -9,7 +9,7 @@ const Footer= (props)=>{
                     <div className="col col-12 col-lg-4">
                     <p>HALDIA INSTITUTE OF TECHNOLOGY<br/>
                     Haldia, 721657 Tel: +91 3224 252800 <br/>
-                    contactus@ithit.com</p>
+                    admin@hithaldia.in</p>
                     </div>
                     <div className="col col-12 col-lg-4"></div>
                     <div className="col col-12 col-lg-4">
@@ -21,7 +21,7 @@ const Footer= (props)=>{
                     </div>
                 </div>
             </div>
-            <div className="footer-bottom">© 2018 Copyright ithit.com</div>
+            <div className="footer-bottom">© 2019 Copyright hithaldia.in</div>
         </div>
     );
 }
