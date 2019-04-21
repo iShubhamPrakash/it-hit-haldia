@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/media/hit_logo.3d29e454.png"
   },
   {
-    "revision": "00a4c7c4fb1568f7d515",
+    "revision": "7e582d78853a315a78ce",
     "url": "/it-hit-haldia/static/css/main.312b20a8.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/media/hit1.e1ea5866.jpg"
   },
   {
-    "revision": "00a4c7c4fb1568f7d515",
-    "url": "/it-hit-haldia/static/js/main.00a4c7c4.chunk.js"
+    "revision": "7e582d78853a315a78ce",
+    "url": "/it-hit-haldia/static/js/main.7e582d78.chunk.js"
   },
   {
     "revision": "28191f7bfc1fa75629f96005e930bf5f",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/css/2.181927df.chunk.css"
   },
   {
-    "revision": "40367e96b7831bca523e110f07528ac5",
+    "revision": "a72fe19bba3f9494cfd3eb1db352ee39",
     "url": "/it-hit-haldia/index.html"
   }
 ];
