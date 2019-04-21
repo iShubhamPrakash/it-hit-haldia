@@ -14,9 +14,9 @@ const Footer= (props)=>{
                     <div className="col col-12 col-lg-4"></div>
                     <div className="col col-12 col-lg-4">
                         <SocialLink
-                        facebook="https://fb.com"
-                        twitter="https://twitter.com"
-                        linkedin="https://linkedin.com"
+                        facebook="https://www.facebook.com/the.hit.times/"
+                        twitter="https://twitter.com/iSuvm"
+                        linkedin="https://www.linkedin.com/in/ishubhamprakash/"
                         />
                     </div>
                 </div>

@@ -99,12 +99,12 @@ export default class Arc extends Component {
               <div className="col-12">
                 <div className="s-card">
                   <h2 className="sub-heading">Punishment for ragging:</h2>
-                  <p className="h4">
+                  <strong>
                     Actions to be taken against students for indulging and
                     abetting ragging in technical institutions/Universities
                     including Deemed to be University imparting technical
                     education
-                  </p>
+                  </strong>
                   <ul>
                     <li>
                       <p>
