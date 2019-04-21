@@ -1,0 +1,31 @@
+.box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.teacher-box-container{
+  margin: 1em;
+}
+
+.teacher-box{
+  background: #f4f7fc;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 300px;
+  text-align: center;
+}
+
+.teacher-box-header img{
+  border-radius: 100%;
+  margin: 1em 0;
+}
+
+.teacher-name{
+  font-weight: bold;
+  color: #202e47;
+  font-size: 1.3em;
+}
+.teacher-data {
+  color: rgb(7, 55, 93);
+}

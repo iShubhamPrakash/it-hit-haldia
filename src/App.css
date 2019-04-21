@@ -1,0 +1,14 @@
+.box-container{
+  padding: 1em;
+}
+
+.box{
+  background: #fff;
+  max-width: 900px;
+  padding: 1.5em 2em;
+  text-align: justify;
+  text-justify: inter-word;
+  border: 1.4px solid lightgrey;
+  border-radius: 8px;
+  margin: 20px auto 50px;
+}

@@ -4,7 +4,6 @@ import './App.css';
 
 import Nav from './components/NavBar';
 import Home from "./components/Home"
-import AboutCollege from "./components/AboutCollege"
 
 import Overviews from "./components/Overviews"
 import Resources from "./components/Resources"
@@ -38,7 +37,6 @@ class App extends Component {
         <Nav/>
         <div style={{paddingTop:"60px"}}>
           <Route exact path="/" component={Home}/>
-          <Route exact path="/about-college" component={AboutCollege}/>
           
           <Route exact path="/overview" component={Overviews}/>
           <Route exact path="/resources" component={Resources} />
