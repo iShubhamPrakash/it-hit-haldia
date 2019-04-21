@@ -1,98 +1,12 @@
-.nav-container{
-    background-color: #282c34;
-    height: 50px;
-    color: white;
-    position: fixed;
-    width: 100%;
-    z-index: 100;
-    box-shadow: 0 2px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-    
-}
-
-.nav-container ul{
- list-style: none;
- display: flex;
- flex-wrap: wrap;
-}
-
-.nav-container ul li{
-    padding: 12px 1rem;
-    font-size: 1.1em;
-}
-
-.nav-container ul li a:hover{
-    border-bottom: 2px solid rgb(209, 36, 79);;
-}
-
-.nav-container a{
-    color: #fff;
-    text-decoration: none;
-}
-
-.nav-container a:active{
-    color: rgb(209, 36, 79);
-    text-decoration: none;
-}
-
-.nav-container .nav_logo {
-/* background: #e5e6e7; */
-border-radius: 100%;
-height:40px;
-position: absolute;
-top: 5px;
-left: 10px;
-}
-.nav-spacer{
-flex-grow: 5;
-}
-
-.sign-in-btn,
-.nav-toggle-btn {
-    border: none;
-    background: transparent;
-    color: #fff;
-}
-
-.nav-toggle-btn{
+.nav-logo{
+    height: 48px;
     position: absolute;
-    font-size: 26px;
-    right: 10px;
-    top: 5px;
-    display: none;
+    top: 3px;
+    left: 8px;
 }
-
-.hidden-nav{
-    background-color: #30333a;
-    color: white;
+.brand-name{
+    font-size: 17px;
     position: absolute;
-    width: 100%;
-    z-index: 100;
-    box-shadow: 0 2px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-    text-align: center;
-    padding: 10px;
-    margin-top: -20px;
-}
-
-.hidden-nav a {
-    display: block;
-    padding: 10px;
-    border-bottom: 1px solid rgba(114, 113, 113, 0.164);
-}
-
-.hidden-nav a:active{
-    color: rgb(243, 179, 105);
-}
-
-.hide{
-    display: none;
-}
-
-@media only screen and (max-width: 950px){
-    .nav-container ul li:not(.brand){
-        display: none;
-    }
-
-    .nav-toggle-btn{
-        display: block;
-    }
+    top: 13px;
+    left: 70px;
 }
