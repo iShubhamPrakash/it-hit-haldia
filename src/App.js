@@ -38,7 +38,7 @@ class App extends Component {
     return (
       <div className="App">
         <Nav/>
-        <div style={{paddingTop:"60px"}}>
+        <div style={{paddingTop:"60px",minHeight:"75vh"}}>
           <Route exact path="/" component={Home}/>
           
           <Route exact path="/overview" component={Overviews}/>

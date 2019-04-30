@@ -19,6 +19,8 @@
 .teacher-box-header img{
   border-radius: 100%;
   margin: 1em 0;
+  width: 225px;
+  height: 225px;
 }
 
 .teacher-name{

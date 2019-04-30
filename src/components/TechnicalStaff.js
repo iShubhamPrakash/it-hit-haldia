@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import '../styles/people.css';
 import { TeacherBox } from './Faculty';
 
+import rinku from '../assets/rinku.jpg'
+import anupam from '../assets/Anupam.jpg'
+import anusree from '../assets/Anshree.jpg'
+
+
 export default class TechnicalStaff extends Component {
   render() {
     return (
@@ -14,15 +19,15 @@ export default class TechnicalStaff extends Component {
           desig="Sr.Instructor"
           sub=""
           link="https://hithaldia.in/main/it-technical-staff/"
-          img=""
+          img={anusree}
         />
         <TeacherBox
           name="Sri Anupam Chowdhury"
-          qualification="BCA"
+          qualification="BCA, MCA"
           desig="Instructor"
           sub=""
           link="https://hithaldia.in/main/it-technical-staff/"
-          img=""
+          img={anupam}
         />
         <TeacherBox
           name="Ms. Rinku Rani Bhunia "
@@ -30,7 +35,7 @@ export default class TechnicalStaff extends Component {
           desig="Demonstrator"
           sub=""
           link="https://hithaldia.in/main/it-technical-staff/"
-          img=""
+          img={rinku}
         />
       </div>
     </div>

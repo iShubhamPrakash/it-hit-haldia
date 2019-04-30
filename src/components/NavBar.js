@@ -46,7 +46,7 @@ class NavBar extends React.Component {
               </NavItem> */}
               <UncontrolledDropdown nav inNavbar>
                 <DropdownToggle nav caret>
-                  The School
+                  The Department
                 </DropdownToggle>
                 <DropdownMenu right>
                   <DropdownItem>
