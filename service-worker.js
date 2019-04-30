@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/it-hit-haldia/precache-manifest.c271aaa0b4280b655b07e8a37364b3db.js"
+  "/it-hit-haldia/precache-manifest.7af93f5532af5a19a9694c21ea3770a8.js"
 );
 
 workbox.clientsClaim();
