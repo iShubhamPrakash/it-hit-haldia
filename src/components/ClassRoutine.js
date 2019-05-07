@@ -6,9 +6,10 @@ export default class ClassRoutine extends Component {
     return (
       <div className="box-container">
         <h1 className="text-center">Class Routine</h1>
-        <h5 className="text-center"> (Year 2018-19)</h5>
         <div className="box">
           <div className="container">
+          <h4 className="text-center">Class routine, Year 2018-19 </h4>
+            <hr/>
           <div className="row" style={{marginBottom:"12px"}}>
             <div className="col col-12 col-md-10">
               4th semester class routine

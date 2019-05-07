@@ -8,14 +8,14 @@
 
 .notice-container{
     background: #fff;
-    height: 500px;
+    height: 320px;
     margin:10px; 
     border-radius: 8px;
     overflow: hidden;
 }
 .info-container{
     background: #fff;
-    height: 500px;
+    height: 320px;
     margin:10px;  
     overflow: hidden;
 }

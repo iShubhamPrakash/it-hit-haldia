@@ -12,31 +12,42 @@ export default class Gallery extends Component {
   render() {
     return (
       <div className="gallery-container">
-        <div className="gallery-header">
-            <h1 className="text-center">Gallery</h1>
-        </div>
-        <div className="gallery-body">
-          <div className="galery-carousel">
-          <Carousel>
-            <div>
-                <img src={img1} />
+        <div className="box">
+          <div className="gallery-header">
+              <h1 className="text-center">Gallery</h1>
+          </div>
+          <div className="gallery-body">
+            <div className="galery-carousel">
+            <Carousel>
+              <div>
+                  <img src={img1} />
+              </div>
+              <div>
+                  <img src={img2} />
+              </div>
+              <div>
+                  <img src={img3} />
+              </div>
+              <div>
+                  <img src={img4} />
+              </div>
+              <div>
+                  <img src={img5} />
+              </div>
+          </Carousel>
             </div>
-            <div>
-                <img src={img2} />
-            </div>
-            <div>
-                <img src={img3} />
-            </div>
-            <div>
-                <img src={img4} />
-            </div>
-            <div>
-                <img src={img5} />
-            </div>
-        </Carousel>
           </div>
         </div>
-    </div>  
+        <div className="box">
+          <Images/>
+        </div>
+      </div>  
     )
   }
+}
+
+const Images = () => {
+  let imgList = [img1, img2, img3, img4, img5];
+
+  return imgList.map(imgurl=><img src={imgurl} alt="" style={{width:"100%"}}/>)
 }

@@ -51,3 +51,16 @@ code {
   height: 100%;
   width: 100% !important;
 }
+
+.member-container{
+  background: rgb(236, 240, 240);
+  padding: 8px 12px;
+  border-radius: 8px;
+  color: rgb(71, 67, 67);
+  margin: 8px auto;
+}
+
+.member-container h5 {
+  color: rgb(6, 63, 117);
+  text-align: center;
+}

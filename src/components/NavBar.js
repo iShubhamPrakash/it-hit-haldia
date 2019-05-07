@@ -108,11 +108,11 @@ class NavBar extends React.Component {
                   </DropdownItem>
                   <DropdownItem divider />
                   <DropdownItem>
-                    <NavLink to="/sports/">Sports</NavLink>
+                    <NavLink to="/sports/">Extra Curriculars</NavLink>
                   </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>
-              <UncontrolledDropdown nav inNavbar>
+              {/* <UncontrolledDropdown nav inNavbar>
                 <DropdownToggle nav caret>
                   Archives
                 </DropdownToggle>
@@ -129,7 +129,7 @@ class NavBar extends React.Component {
                     <NavLink to="/projects/">Projects</NavLink>
                   </DropdownItem>
                 </DropdownMenu>
-              </UncontrolledDropdown>
+              </UncontrolledDropdown> */}
             </Nav>
           </Collapse>
         </Navbar>

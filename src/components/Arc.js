@@ -5,8 +5,10 @@ export default class Arc extends Component {
     return (
       <div className="box-container">
         <div className="box">
-          <h1 className="text-center" style={{textAlign:"center"}}>Anti Ragging Cell</h1>
-          <hr/>
+          <h1 className="text-center" style={{ textAlign: "center" }}>
+            Anti Ragging Cell<hr />
+          </h1>
+    
           <div className="container">
             <div className="row">
               <div className="col-12" />
@@ -97,7 +99,7 @@ export default class Arc extends Component {
             </div>
             <div className="row">
               <div className="col-12">
-                <div className="s-card">
+                <div className="">
                   <h2 className="sub-heading">Punishment for ragging:</h2>
                   <strong>
                     Actions to be taken against students for indulging and

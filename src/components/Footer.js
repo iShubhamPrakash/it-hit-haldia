@@ -1,6 +1,5 @@
 import React from 'react'
 import '../styles/Footer.css'
-import SocialLink from './ComponentBox'
 const Footer= (props)=>{
     return(
         <div className="footer-container">
@@ -13,11 +12,10 @@ const Footer= (props)=>{
                     </div>
                     <div className="col col-12 col-lg-4"></div>
                     <div className="col col-12 col-lg-4">
-                        <SocialLink
-                        facebook="https://www.facebook.com/the.hit.times/"
-                        twitter="https://twitter.com/iSuvm"
-                        linkedin="https://www.linkedin.com/in/ishubhamprakash/"
-                        />
+                        <p>Maintained by IT Dept, HIT<br />
+                            (Best viewed in Google Chrome)<br />
+                            <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ishubhamprakash/">Contact developer</a>
+                        </p>
                     </div>
                 </div>
             </div>

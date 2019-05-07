@@ -16,8 +16,9 @@ export default class Home extends Component {
                     <div className="col col-12 col-md-9 ">
                         <h1>Department of Information Technology</h1>
                         <h3>Haldia Institute of Technology, West Bengal</h3>
+                        <p>(Under the School of Electronics, Computer and Informatics)</p>
                     </div>
-                    <marquee><p className="text-danger">This site is under development... please check back soon.. Thankyou...</p></marquee>
+                    <marquee><p className="text-danger">Welcome to the Department of Information Technology, HIT Haldia...</p></marquee>
                     <div className="home-top-img">
                         <Carousel>
                             <div>
@@ -94,28 +95,12 @@ export default class Home extends Component {
                                 <p className="h4 text-center">Highlites</p>
                             </div><hr/>
                             <div className="body">
-                                <p className="text-center text-danger">Placement 2019 passout batch <br/>
-                                    (Till date)</p>
+                                <p className="text-center text-danger">Placement 2018 batch</p>
                                 <ul>
-                                    <li>Infosys: 22</li>
-                                    <li>Wipro: 29</li>
+                                    <li>Infosys: 16</li>
+                                    <li>Wipro: 10</li>
                                     <li>TCS: 22</li>
-                                    <li>Extramarks: 15</li>
-                                    <li>ABJOOBA: 2</li>
-                                    <li>BYJUS: 1</li>
-                                    <li>PRATAN: 1</li>
-                                    <li>OTHERS: 4</li>
-                                </ul>
-                                <p className="text-center text-danger">Placement 2018 passout batch</p>
-                                <ul>
-                                    <li>Infosys: 22</li>
-                                    <li>Wipro: 29</li>
-                                    <li>TCS: 22</li>
-                                    <li>Extramarks: 15</li>
-                                    <li>ABJOOBA: 2</li>
-                                    <li>BYJUS: 1</li>
-                                    <li>PRATAN: 1</li>
-                                    <li>OTHERS: 4</li>
+                                    <li>Dynamics infosolution: 1</li>
                                 </ul>
                             </div>
                         </div>
