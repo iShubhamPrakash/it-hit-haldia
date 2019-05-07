@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "a788dbad13324fb4a54b4e3e38f22ea8",
-    "url": "/it-hit-haldia/static/media/placement_2018.a788dbad.png"
+    "revision": "2ef6235011e128f9d35ed5b34b78e1d8",
+    "url": "/it-hit-haldia/static/media/placement_2018.2ef62350.png"
   },
   {
-    "revision": "df49a58cac8260489fb7",
+    "revision": "f9c09101baa62f6c3fd9",
     "url": "/it-hit-haldia/static/css/main.b3919275.chunk.css"
   },
   {
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/media/hit5.739792cb.jpg"
   },
   {
-    "revision": "3159bdcb451873274daa8574b7312302",
-    "url": "/it-hit-haldia/static/media/Extra-Curricular.3159bdcb.png"
+    "revision": "cfef604f6c556e3cb126f958cf6ad4fc",
+    "url": "/it-hit-haldia/static/media/Extra-Curricular.cfef604f.png"
   },
   {
-    "revision": "38daab2e2634959407e63f7ccc7aa78c",
-    "url": "/it-hit-haldia/static/media/Intrer-institute.38daab2e.png"
+    "revision": "f2333cde98d7fd91ad48984a6d1cac81",
+    "url": "/it-hit-haldia/static/media/Intrer-institute.f2333cde.png"
   },
   {
     "revision": "3d29e454606a13b51e752936b4aa4821",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/media/it_logo.28191f7b.png"
   },
   {
-    "revision": "df49a58cac8260489fb7",
-    "url": "/it-hit-haldia/static/js/main.df49a58c.chunk.js"
+    "revision": "f9c09101baa62f6c3fd9",
+    "url": "/it-hit-haldia/static/js/main.f9c09101.chunk.js"
   },
   {
     "revision": "a1efe4e4f9f3b631875cebd164c5c762",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/css/2.181927df.chunk.css"
   },
   {
-    "revision": "e203e0ed41700e5670e0ca137e5dc29a",
+    "revision": "2034a17a1e2281a16ee21ec20ce63790",
     "url": "/it-hit-haldia/index.html"
   }
 ];
