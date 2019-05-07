@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "739792cb54e8084704eb73c353ab9730",
-    "url": "/it-hit-haldia/static/media/hit5.739792cb.jpg"
+    "revision": "a788dbad13324fb4a54b4e3e38f22ea8",
+    "url": "/it-hit-haldia/static/media/placement_2018.a788dbad.png"
   },
   {
-    "revision": "0902f740e464d5a2a2ea",
-    "url": "/it-hit-haldia/static/css/main.17bf6d81.chunk.css"
+    "revision": "df49a58cac8260489fb7",
+    "url": "/it-hit-haldia/static/css/main.b3919275.chunk.css"
   },
   {
     "revision": "b59f3c6557c48a85870f",
     "url": "/it-hit-haldia/static/js/runtime~main.b59f3c65.js"
   },
   {
-    "revision": "44d881faa8eb97355f99cdcef4e4979b",
-    "url": "/it-hit-haldia/static/media/academic-calender.44d881fa.jpg"
+    "revision": "995867b4f672155b1fa66ba45aa4e6f8",
+    "url": "/it-hit-haldia/static/media/Acm_members.995867b4.pdf"
   },
   {
-    "revision": "7682d072ec9620da97bd",
-    "url": "/it-hit-haldia/static/js/2.7682d072.chunk.js"
+    "revision": "3a89cb571c81e95cfee9",
+    "url": "/it-hit-haldia/static/js/2.3a89cb57.chunk.js"
   },
   {
     "revision": "ed4218e87c1ac08ceda9ad85ba448a05",
@@ -28,16 +28,12 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/media/hit1.e1ea5866.jpg"
   },
   {
+    "revision": "788fd7e84781fd8dc9720c1507a4c1a0",
+    "url": "/it-hit-haldia/static/media/Exam Schedule even 2nd internal.788fd7e8.xls"
+  },
+  {
     "revision": "a9965e631068ae0f25fbe65586301ac3",
     "url": "/it-hit-haldia/static/media/DEPARTMENTALROUTINE_IT_EVEN_2018-19.a9965e63.xlsx"
-  },
-  {
-    "revision": "3d29e454606a13b51e752936b4aa4821",
-    "url": "/it-hit-haldia/static/media/hit_logo.3d29e454.png"
-  },
-  {
-    "revision": "28191f7bfc1fa75629f96005e930bf5f",
-    "url": "/it-hit-haldia/static/media/it_logo.28191f7b.png"
   },
   {
     "revision": "634ea1f5879652e52e8b7a3184c87b12",
@@ -52,8 +48,28 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/media/hit4.cce5b738.jpg"
   },
   {
-    "revision": "0902f740e464d5a2a2ea",
-    "url": "/it-hit-haldia/static/js/main.0902f740.chunk.js"
+    "revision": "739792cb54e8084704eb73c353ab9730",
+    "url": "/it-hit-haldia/static/media/hit5.739792cb.jpg"
+  },
+  {
+    "revision": "3159bdcb451873274daa8574b7312302",
+    "url": "/it-hit-haldia/static/media/Extra-Curricular.3159bdcb.png"
+  },
+  {
+    "revision": "38daab2e2634959407e63f7ccc7aa78c",
+    "url": "/it-hit-haldia/static/media/Intrer-institute.38daab2e.png"
+  },
+  {
+    "revision": "3d29e454606a13b51e752936b4aa4821",
+    "url": "/it-hit-haldia/static/media/hit_logo.3d29e454.png"
+  },
+  {
+    "revision": "28191f7bfc1fa75629f96005e930bf5f",
+    "url": "/it-hit-haldia/static/media/it_logo.28191f7b.png"
+  },
+  {
+    "revision": "df49a58cac8260489fb7",
+    "url": "/it-hit-haldia/static/js/main.df49a58c.chunk.js"
   },
   {
     "revision": "a1efe4e4f9f3b631875cebd164c5c762",
@@ -96,11 +112,27 @@ self.__precacheManifest = [
     "url": "/it-hit-haldia/static/media/Anshree.05bee602.jpg"
   },
   {
-    "revision": "7682d072ec9620da97bd",
+    "revision": "44d881faa8eb97355f99cdcef4e4979b",
+    "url": "/it-hit-haldia/static/media/academic-calender.44d881fa.jpg"
+  },
+  {
+    "revision": "0f5dfe6c406d99bbf7c69b0b92052108",
+    "url": "/it-hit-haldia/static/media/acm final.0f5dfe6c.jpg"
+  },
+  {
+    "revision": "8dcbf50bcec63a363ddd105d077a5285",
+    "url": "/it-hit-haldia/static/media/flags12345.8dcbf50b.jpg"
+  },
+  {
+    "revision": "93a10f57f559f82c1c8accfdeaf539df",
+    "url": "/it-hit-haldia/static/media/Chapter Members all.93a10f57.pdf"
+  },
+  {
+    "revision": "3a89cb571c81e95cfee9",
     "url": "/it-hit-haldia/static/css/2.181927df.chunk.css"
   },
   {
-    "revision": "bb97511cb949bc183e1539ce4ed9301a",
+    "revision": "e203e0ed41700e5670e0ca137e5dc29a",
     "url": "/it-hit-haldia/index.html"
   }
 ];
